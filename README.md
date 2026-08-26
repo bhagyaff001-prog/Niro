@@ -1,107 +1,172 @@
-# Niro
-Niro 🤍
+🤍 Niro
 
-Your warm, caring AI companion.
+A warm, caring & slightly cute AI companion for Android.
 
-Niro is a modern AI companion designed for Android and mobile devices.
+<p align="center">
+  <img src="full.png" width="350">
+</p>Niro is a modern AI companion for Android, designed to make AI conversations feel more natural, personal, and human.
 
-Built to feel less like a traditional chatbot and more like a friendly companion, Niro focuses on natural conversations, a warm personality, and a clean mobile-first experience.
+Niro isn't just about getting answers — it's about having an assistant that feels friendly, calm, caring, and easy to talk to.
+
+---
 
 ✨ Features
 
-- 🤍 Warm and caring AI personality
-- 💬 Natural conversations
-- 🧠 AI-powered assistance
-- 📱 Mobile-first interface
-- 🎨 Clean and modern UI
-- ⚡ Lightweight and responsive
-- 🌙 Comfortable experience for everyday use
-- 🧩 Designed to grow with new AI features
+- 💬 Natural AI Conversations
+  Talk with Niro naturally and get helpful responses.
 
-📱 Niro on Mobile
+- 🤍 Warm Personality
+  Niro is designed to be caring, friendly, supportive, and slightly cute.
 
-Niro is designed primarily with mobile users in mind, providing an experience that feels natural on Android phones and smaller screens.
+- 🧠 AI-Powered Assistance
+  Ask questions, solve problems, learn, brainstorm, and get help with everyday tasks.
 
-The interface is built around simplicity — open Niro, start a conversation, and get help whenever you need it.
+- 📱 Android-First Experience
+  Designed specifically for a comfortable mobile experience.
 
-🛠️ Technology
+- 🎨 Modern Interface
+  Clean, minimal, polished, and easy to use.
 
-The current project is built using:
+- ⚡ Fast & Simple
+  Start a conversation without unnecessary complexity.
 
-- HTML
-- CSS
-- JavaScript
-- AI integration
+- 🔒 Privacy-Conscious
+  Built with privacy and secure handling of information in mind.
 
-The project can be further packaged or integrated into an Android application depending on the deployment setup.
+---
 
-📂 Project Structure
+📱 Screenshots
 
-Niro/
-├── index.html
-├── main.js
-├── styles.css
-├── ic_launcher_round.png
-└── README.md
+<p align="center">
+  <img src="full.png" width="350">
+</p><p align="center">
+  <img src="home.png" width="250">
+  <img src="chat.png" width="250">
+  <img src="settings.png" width="250">
+</p>---
 
-"index.html"
+🚀 Installation
 
-Contains the main application interface and structure.
+Android
 
-"styles.css"
+Download the latest APK from the Releases section of this repository.
 
-Handles the visual design, layout, responsiveness, and mobile UI.
+1. Download the latest "Niro.apk".
+2. Open the APK on your Android device.
+3. Allow installation from unknown sources if Android asks.
+4. Install Niro.
+5. Open the app and start chatting.
 
-"main.js"
+«Note: Only install APK files from sources you trust.»
 
-Contains the application's JavaScript logic and interaction functionality.
+---
 
-🚀 Getting Started
+🧑‍💻 Development
 
 Clone the repository:
 
 git clone https://github.com/bhagyaff001-prog/Niro.git
 cd Niro
 
-Then open "index.html" in a browser or serve the project using a local development server.
-
-For Android deployment, use the appropriate Android/WebView packaging setup for your environment.
-
-🔐 Security
-
-Never expose private API keys directly inside client-side JavaScript.
-
-For production deployments, sensitive API credentials should be handled through a secure backend.
-
-🗺️ Roadmap
-
-- [ ] Better conversational intelligence
-- [ ] AI memory
-- [ ] Voice input
-- [ ] Voice responses
-- [ ] Personalization
-- [ ] Android app packaging
-- [ ] Push notifications
-- [ ] More customization options
-- [ ] Improved animations
-- [ ] More AI-powered tools
-
-🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-If you have an idea for Niro, feel free to open an issue or submit a pull request.
-
-📄 License
-
-See the repository for licensing information.
+Open the project in your development environment and build the application.
 
 ---
 
-<p align="center">🤍 Niro
+🛠️ Built With
 
-A little more human. A little more caring.
+Niro is built with a focus on:
 
-Made with care by Bhagya Gujju.
+- 📱 Android
+- 🤖 AI-powered conversations
+- 🎨 Modern UI/UX
+- ⚡ Performance
+- 🔐 Security
+- 💡 Simplicity
+- 🤍 Natural interaction
+
+---
+
+🗺️ Roadmap
+
+Niro is continuously evolving.
+
+- [ ] Better AI conversations
+- [ ] Long-term memory
+- [ ] Voice input
+- [ ] Voice responses
+- [ ] Personalized conversations
+- [ ] More AI tools
+- [ ] Custom themes
+- [ ] Improved animations
+- [ ] Notifications
+- [ ] More Android integrations
+
+---
+
+🤝 Contributing
+
+Want to help make Niro better?
+
+Contributions, suggestions, bug reports, and feature requests are welcome.
+
+Contribute
+
+1. Fork this repository.
+2. Create a feature branch:
+
+git checkout -b feature/my-feature
+
+3. Make your changes.
+4. Commit your changes:
+
+git commit -m "Add my feature"
+
+5. Push your branch:
+
+git push origin feature/my-feature
+
+6. Open a Pull Request.
+
+---
+
+🐛 Issues & Suggestions
+
+Found a bug or have an idea?
+
+Open an Issue in this repository and describe the problem or feature you'd like to see.
+
+---
+
+🤍 About Niro
+
+Niro was created with a simple idea:
+
+«AI doesn't always have to feel robotic.»
+
+Niro aims to make everyday AI interaction feel warmer, more comfortable, and more human.
+
+Whether you need help with something, want to learn, need an idea, or simply want a friendly conversation — Niro is here.
+
+---
+
+👨‍💻 Creator
+
+Bhagya Gujju
+
+Built with 🤍 and a lot of curiosity.
+
+---
+
+📄 License
+
+See the "LICENSE" file in this repository for the applicable license.
+
+---
+
+<p align="center">Niro 🤍
+
+Your warm AI companion.
+
+Made with care.
 
 </p>
